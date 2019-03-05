@@ -1,2 +1,0 @@
-# argotest
-hello-world
